@@ -8,4 +8,5 @@
 
 ## Instructions
 
-
+* autoclave at 121 degrees C for 15 mins
+* eat ASAP
