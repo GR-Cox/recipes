@@ -4,7 +4,7 @@
 
 * avocado
 * 3 x slugs
-* sugar
+* NaOH
 
 ## Instructions
 
